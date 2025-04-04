@@ -1,0 +1,2812 @@
+[
+  {
+    "FoodItems": "Artichoke",
+    "Quantity": "1 artichoke (128 g)",
+    "Calories": "60 cal"
+  },
+  {
+    "FoodItems": "Arugula",
+    "Quantity": "1 leaf (2 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Asparagus",
+    "Quantity": "1 spear (12 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Aubergine",
+    "Quantity": "1 aubergine (458 g)",
+    "Calories": "115 cal"
+  },
+  {
+    "FoodItems": "Beetroot",
+    "Quantity": "1 beet (82 g)",
+    "Calories": "35 cal"
+  },
+  {
+    "FoodItems": "Bell Pepper",
+    "Quantity": "1 pepper (73 g)",
+    "Calories": "15 cal"
+  },
+  {
+    "FoodItems": "Black Olives",
+    "Quantity": "1 olive (2.7 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Broccoli",
+    "Quantity": "1 bunch (608 g)",
+    "Calories": "207 cal"
+  },
+  {
+    "FoodItems": "Brussels Sprouts",
+    "Quantity": "1 sprout (19 g)",
+    "Calories": "8 cal"
+  },
+  {
+    "FoodItems": "Cabbage",
+    "Quantity": "1 head (908 g)",
+    "Calories": "227 cal"
+  },
+  {
+    "FoodItems": "Capsicum",
+    "Quantity": "1 pepper (45 g)",
+    "Calories": "12 cal"
+  },
+  {
+    "FoodItems": "Carrot",
+    "Quantity": "1 carrot (61 g)",
+    "Calories": "25 cal"
+  },
+  {
+    "FoodItems": "Cauliflower",
+    "Quantity": "1 floweret (13 g)",
+    "Calories": "3 cal"
+  },
+  {
+    "FoodItems": "Celery",
+    "Quantity": "1 stalk (40 g)",
+    "Calories": "6 cal"
+  },
+  {
+    "FoodItems": "Chard",
+    "Quantity": "1 leaf (48 g)",
+    "Calories": "9 cal"
+  },
+  {
+    "FoodItems": "Cherry Tomato",
+    "Quantity": "1 cherry tomato (20 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Chicory",
+    "Quantity": "1 head (53 g)",
+    "Calories": "38 cal"
+  },
+  {
+    "FoodItems": "Chinese Cabbage",
+    "Quantity": "1 head (840 g)",
+    "Calories": "134 cal"
+  },
+  {
+    "FoodItems": "Chives",
+    "Quantity": "1 tbsp, chopped (3 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Collard Greens",
+    "Quantity": "1 cup, raw (36 g)",
+    "Calories": "12 cal"
+  },
+  {
+    "FoodItems": "Corn",
+    "Quantity": "1 cup (154 g)",
+    "Calories": "562 cal"
+  },
+  {
+    "FoodItems": "Courgette",
+    "Quantity": "1 courgette (196 g)",
+    "Calories": "33 cal"
+  },
+  {
+    "FoodItems": "Creamed Spinach",
+    "Quantity": "1 cup (200 g)",
+    "Calories": "148 cal"
+  },
+  {
+    "FoodItems": "Cucumber",
+    "Quantity": "1 cucumber (410 g)",
+    "Calories": "66 cal"
+  },
+  {
+    "FoodItems": "Eggplant",
+    "Quantity": "1 eggplant (458 g)",
+    "Calories": "115 cal"
+  },
+  {
+    "FoodItems": "Endive",
+    "Quantity": "1 head (513 g)",
+    "Calories": "87 cal"
+  },
+  {
+    "FoodItems": "Fennel",
+    "Quantity": "1 bulb (234 g)",
+    "Calories": "73 cal"
+  },
+  {
+    "FoodItems": "Garlic",
+    "Quantity": "1 clove (3 g)",
+    "Calories": "4 cal"
+  },
+  {
+    "FoodItems": "Gherkin",
+    "Quantity": "1 gherkin (65 g)",
+    "Calories": "9 cal"
+  },
+  {
+    "FoodItems": "Gourd",
+    "Quantity": "1 gourd (771 g)",
+    "Calories": "108 cal"
+  },
+  {
+    "FoodItems": "Green Beans",
+    "Quantity": "1 cup (110 g)",
+    "Calories": "34 cal"
+  },
+  {
+    "FoodItems": "Green Olives",
+    "Quantity": "1 olive (2.7 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Green Onion",
+    "Quantity": "1 green onion (15 g)",
+    "Calories": "5 cal"
+  },
+  {
+    "FoodItems": "Horseradish",
+    "Quantity": "1 tbsp (15 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Kale",
+    "Quantity": "1 cup, chopped (67 g)",
+    "Calories": "33 cal"
+  },
+  {
+    "FoodItems": "Kohlrabi",
+    "Quantity": "1 kohlrabi (400 g)",
+    "Calories": "108 cal"
+  },
+  {
+    "FoodItems": "Kumara",
+    "Quantity": "1 kumara (130 g)",
+    "Calories": "112 cal"
+  },
+  {
+    "FoodItems": "Leek",
+    "Quantity": "1 leek (89 g)",
+    "Calories": "54 cal"
+  },
+  {
+    "FoodItems": "Lettuce",
+    "Quantity": "1 head (600 g)",
+    "Calories": "90 cal"
+  },
+  {
+    "FoodItems": "Mushrooms",
+    "Quantity": "1 mushroom (5.4 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Mustard Greens",
+    "Quantity": "1 cup, chopped (56 g)",
+    "Calories": "15 cal"
+  },
+  {
+    "FoodItems": "Nori",
+    "Quantity": "1 sheet (2.6 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Okra",
+    "Quantity": "1 pod (12 g)",
+    "Calories": "4 cal"
+  },
+  {
+    "FoodItems": "Olives",
+    "Quantity": "1 olive (2.7 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Onion",
+    "Quantity": "1 onion (85 g)",
+    "Calories": "34 cal"
+  },
+  {
+    "FoodItems": "Parsnips",
+    "Quantity": "1 parsnip (170 g)",
+    "Calories": "128 cal"
+  },
+  {
+    "FoodItems": "Peas",
+    "Quantity": "1 cup (98 g)",
+    "Calories": "79 cal"
+  },
+  {
+    "FoodItems": "Pepper",
+    "Quantity": "1 pepper (75 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Potato",
+    "Quantity": "1 potato (213 g)",
+    "Calories": "164 cal"
+  },
+  {
+    "FoodItems": "Pumpkin",
+    "Quantity": "1 pumpkin (196 g)",
+    "Calories": "51 cal"
+  },
+  {
+    "FoodItems": "Radishes",
+    "Quantity": "1 radish (4.5 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Red Cabbage",
+    "Quantity": "1 leaf (22 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Rutabaga",
+    "Quantity": "1 rutabaga (386 g)",
+    "Calories": "147 cal"
+  },
+  {
+    "FoodItems": "Shallots",
+    "Quantity": "1 shallot (25 g)",
+    "Calories": "18 cal"
+  },
+  {
+    "FoodItems": "Spinach",
+    "Quantity": "1 bunch (340 g)",
+    "Calories": "78 cal"
+  },
+  {
+    "FoodItems": "Squash",
+    "Quantity": "1 squash (196 g)",
+    "Calories": "88 cal"
+  },
+  {
+    "FoodItems": "Sweet Potato",
+    "Quantity": "1 potato (130 g)",
+    "Calories": "112 cal"
+  },
+  {
+    "FoodItems": "Tomato",
+    "Quantity": "1 tomato (111 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Turnip Greens",
+    "Quantity": "1 turnip green (170 g)",
+    "Calories": "34 cal"
+  },
+  {
+    "FoodItems": "Turnips",
+    "Quantity": "1 turnip (122 g)",
+    "Calories": "34 cal"
+  },
+  {
+    "FoodItems": "Wasabi",
+    "Quantity": "1 root (169 g)",
+    "Calories": "184 cal"
+  },
+  {
+    "FoodItems": "Winter Squash",
+    "Quantity": "1 squash (431 g)",
+    "Calories": "147 cal"
+  },
+  {
+    "FoodItems": "Zucchini",
+    "Quantity": "1 zucchini (196 g)",
+    "Calories": "33 cal"
+  },
+  {
+    "FoodItems": "Acai",
+    "Quantity": "1 oz. (28.35 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Apple",
+    "Quantity": "1 apple (182 g)",
+    "Calories": "95 cal"
+  },
+  {
+    "FoodItems": "Applesauce",
+    "Quantity": "1 cup (246 g)",
+    "Calories": "167 cal"
+  },
+  {
+    "FoodItems": "Apricot",
+    "Quantity": "1 apricot (35 g)",
+    "Calories": "17 cal"
+  },
+  {
+    "FoodItems": "Avocado",
+    "Quantity": "1 avocado (200 g)",
+    "Calories": "320 cal"
+  },
+  {
+    "FoodItems": "Banana",
+    "Quantity": "1 banana (125 g)",
+    "Calories": "111 cal"
+  },
+  {
+    "FoodItems": "Blackberries",
+    "Quantity": "1 cup (144 g)",
+    "Calories": "62 cal"
+  },
+  {
+    "FoodItems": "Blood Oranges",
+    "Quantity": "1 serving (140 g)",
+    "Calories": "70 cal"
+  },
+  {
+    "FoodItems": "Blueberries",
+    "Quantity": "1 cup (148 g)",
+    "Calories": "84 cal"
+  },
+  {
+    "FoodItems": "Cantaloupe",
+    "Quantity": "1 wedge (69 g)",
+    "Calories": "23 cal"
+  },
+  {
+    "FoodItems": "Cherries",
+    "Quantity": "1 cherry (8 g)",
+    "Calories": "4 cal"
+  },
+  {
+    "FoodItems": "Clementine",
+    "Quantity": "1 clementine (74 g)",
+    "Calories": "35 cal"
+  },
+  {
+    "FoodItems": "Cranberries",
+    "Quantity": "1 cup (100 g)",
+    "Calories": "46 cal"
+  },
+  {
+    "FoodItems": "Currants",
+    "Quantity": "1 cup (112 g)",
+    "Calories": "63 cal"
+  },
+  {
+    "FoodItems": "Custard Apple",
+    "Quantity": "1 custard apple (135 g)",
+    "Calories": "136 cal"
+  },
+  {
+    "FoodItems": "Dates",
+    "Quantity": "1 date (7.1 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Figs",
+    "Quantity": "1 fig (50 g)",
+    "Calories": "37 cal"
+  },
+  {
+    "FoodItems": "Fruit salad",
+    "Quantity": "1 cup (249 g)",
+    "Calories": "125 cal"
+  },
+  {
+    "FoodItems": "Grapes",
+    "Quantity": "1 cup (151 g)",
+    "Calories": "104 cal"
+  },
+  {
+    "FoodItems": "Greengage",
+    "Quantity": "1 fruit (5 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Guava",
+    "Quantity": "1 guava (55 g)",
+    "Calories": "37 cal"
+  },
+  {
+    "FoodItems": "Jackfruit",
+    "Quantity": "1 cup (151 g)",
+    "Calories": "143 cal"
+  },
+  {
+    "FoodItems": "Jujube",
+    "Quantity": "1 oz. (28.35 g)",
+    "Calories": "22 cal"
+  },
+  {
+    "FoodItems": "Kiwi",
+    "Quantity": "1 liwi (183 g)",
+    "Calories": "112 cal"
+  },
+  {
+    "FoodItems": "Lemon",
+    "Quantity": "1 lemon (58 g)",
+    "Calories": "17 cal"
+  },
+  {
+    "FoodItems": "Lime",
+    "Quantity": "1 lime (67 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Lychees",
+    "Quantity": "1 lychee (10 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Mandarin Oranges",
+    "Quantity": "1 mandarin orange (88 g)",
+    "Calories": "47 cal"
+  },
+  {
+    "FoodItems": "Mango",
+    "Quantity": "1 mango (336 g)",
+    "Calories": "202 cal"
+  },
+  {
+    "FoodItems": "Minneola",
+    "Quantity": "1 minneola (109 g)",
+    "Calories": "70 cal"
+  },
+  {
+    "FoodItems": "Mulberries",
+    "Quantity": "1 cup (140 g)",
+    "Calories": "60 cal"
+  },
+  {
+    "FoodItems": "Nectarine",
+    "Quantity": "1 nectarine (150 g)",
+    "Calories": "66 cal"
+  },
+  {
+    "FoodItems": "Olives",
+    "Quantity": "1 olive (2.7 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Orange",
+    "Quantity": "1 orange (131 g)",
+    "Calories": "62 cal"
+  },
+  {
+    "FoodItems": "Papaya",
+    "Quantity": "1 fruit (500 g)",
+    "Calories": "215 cal"
+  },
+  {
+    "FoodItems": "Passion Fruit",
+    "Quantity": "1 passoin fruit (18 g)",
+    "Calories": "17 cal"
+  },
+  {
+    "FoodItems": "Peach",
+    "Quantity": "1 peach (150 g)",
+    "Calories": "59 cal"
+  },
+  {
+    "FoodItems": "Pear",
+    "Quantity": "1 pear (178 g)",
+    "Calories": "101 cal"
+  },
+  {
+    "FoodItems": "Persimmon",
+    "Quantity": "1 fruit (25 g)",
+    "Calories": "32 cal"
+  },
+  {
+    "FoodItems": "Physalis",
+    "Quantity": "1 berry (5 g)",
+    "Calories": "2 cal"
+  },
+  {
+    "FoodItems": "Pineapple",
+    "Quantity": "1 pineapple (905 g)",
+    "Calories": "453 cal"
+  },
+  {
+    "FoodItems": "Plantains",
+    "Quantity": "1 plantain (179 g)",
+    "Calories": "218 cal"
+  },
+  {
+    "FoodItems": "Plum",
+    "Quantity": "1 plum (66 g)",
+    "Calories": "30 cal"
+  },
+  {
+    "FoodItems": "Pomegranate",
+    "Quantity": "1 pomegranate (282 g)",
+    "Calories": "234 cal"
+  },
+  {
+    "FoodItems": "Quince",
+    "Quantity": "1 quince (92 g)",
+    "Calories": "52 cal"
+  },
+  {
+    "FoodItems": "Raisins",
+    "Quantity": "1 cup (145 g)",
+    "Calories": "434 cal"
+  },
+  {
+    "FoodItems": "Rambutan",
+    "Quantity": "1 rambutan (9 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Raspberries",
+    "Quantity": "1 cup (123 g)",
+    "Calories": "64 cal"
+  },
+  {
+    "FoodItems": "Rhubarb",
+    "Quantity": "1 stalk (51 g)",
+    "Calories": "11 cal"
+  },
+  {
+    "FoodItems": "Starfruit",
+    "Quantity": "1 star fruit (91 g)",
+    "Calories": "28 cal"
+  },
+  {
+    "FoodItems": "Strawberries",
+    "Quantity": "1 cup (152 g)",
+    "Calories": "49 cal"
+  },
+  {
+    "FoodItems": "Tamarind",
+    "Quantity": "1 tamarind (2 g)",
+    "Calories": "5 cal"
+  },
+  {
+    "FoodItems": "Tangerine",
+    "Quantity": "1 tangerine (88 g)",
+    "Calories": "47 cal"
+  },
+  {
+    "FoodItems": "Watermelon",
+    "Quantity": "1 wedge (286 g)",
+    "Calories": "86 cal"
+  },
+  {
+    "FoodItems": "Baby Back Ribs",
+    "Quantity": "1 serving (139 g)",
+    "Calories": "360 cal"
+  },
+  {
+    "FoodItems": "Bacon and Eggs",
+    "Quantity": "1 serving (214 g)",
+    "Calories": "539 cal"
+  },
+  {
+    "FoodItems": "Baked Beans",
+    "Quantity": "1 cup (260 g)",
+    "Calories": "244 cal"
+  },
+  {
+    "FoodItems": "BBQ Ribs",
+    "Quantity": "1 rib (141 g)",
+    "Calories": "360 cal"
+  },
+  {
+    "FoodItems": "Beef Stew",
+    "Quantity": "1 cup (196 g)",
+    "Calories": "186 cal"
+  },
+  {
+    "FoodItems": "Biryani",
+    "Quantity": "1 cup (275 g)",
+    "Calories": "484 cal"
+  },
+  {
+    "FoodItems": "Black Pudding",
+    "Quantity": "1 pudding (40 g)",
+    "Calories": "101 cal"
+  },
+  {
+    "FoodItems": "Black Rice",
+    "Quantity": "1/2 cup (100 g)",
+    "Calories": "323 cal"
+  },
+  {
+    "FoodItems": "BLT",
+    "Quantity": "1 item (240 g)",
+    "Calories": "593 cal"
+  },
+  {
+    "FoodItems": "Brown Rice",
+    "Quantity": "1 cup (185 g)",
+    "Calories": "670 cal"
+  },
+  {
+    "FoodItems": "Burrito",
+    "Quantity": "1 burrito (200 g)",
+    "Calories": "326 cal"
+  },
+  {
+    "FoodItems": "Butter Chicken",
+    "Quantity": "1 tray (350 g)",
+    "Calories": "490 cal"
+  },
+  {
+    "FoodItems": "California Roll",
+    "Quantity": "1 roll (35 g)",
+    "Calories": "33 cal"
+  },
+  {
+    "FoodItems": "Chicken Caesar Salad",
+    "Quantity": "1 salad (309 g)",
+    "Calories": "392 cal"
+  },
+  {
+    "FoodItems": "Chicken Fried Steak",
+    "Quantity": "1 steak (280 g)",
+    "Calories": "423 cal"
+  },
+  {
+    "FoodItems": "Chicken Marsala",
+    "Quantity": "1 serving (2301 g)",
+    "Calories": "2209 cal"
+  },
+  {
+    "FoodItems": "Chicken Parmesan",
+    "Quantity": "1 piece (227 g)",
+    "Calories": "250 cal"
+  },
+  {
+    "FoodItems": "Chicken Pot Pie",
+    "Quantity": "1 pie (302 g)",
+    "Calories": "673 cal"
+  },
+  {
+    "FoodItems": "Chicken Tikka Masala",
+    "Quantity": "1 serving (241 g)",
+    "Calories": "195 cal"
+  },
+  {
+    "FoodItems": "Chili con Carne",
+    "Quantity": "1 cup (253 g)",
+    "Calories": "266 cal"
+  },
+  {
+    "FoodItems": "Chimichanga",
+    "Quantity": "1 item (180 g)",
+    "Calories": "418 cal"
+  },
+  {
+    "FoodItems": "Cobb Salad",
+    "Quantity": "1 serving (536 g)",
+    "Calories": "632 cal"
+  },
+  {
+    "FoodItems": "Collard Greens",
+    "Quantity": "1 cup (45 g)",
+    "Calories": "13 cal"
+  },
+  {
+    "FoodItems": "Corn Dog",
+    "Quantity": "1 item (175 g)",
+    "Calories": "438 cal"
+  },
+  {
+    "FoodItems": "Corned Beef Hash",
+    "Quantity": "1 can (213 g)",
+    "Calories": "349 cal"
+  },
+  {
+    "FoodItems": "Cottage Pie",
+    "Quantity": "1 pie (376 g)",
+    "Calories": "523 cal"
+  },
+  {
+    "FoodItems": "Dal",
+    "Quantity": "1/2 cup (92 g)",
+    "Calories": "304 cal"
+  },
+  {
+    "FoodItems": "Deviled Eggs",
+    "Quantity": "1/2 egg (31 g)",
+    "Calories": "62 cal"
+  },
+  {
+    "FoodItems": "Dim Sum",
+    "Quantity": "1 piece (19 g)",
+    "Calories": "37 cal"
+  },
+  {
+    "FoodItems": "Dosa",
+    "Quantity": "1 serving (435 g)",
+    "Calories": "287 cal"
+  },
+  {
+    "FoodItems": "Enchiladas",
+    "Quantity": "1 enchilada (192 g)",
+    "Calories": "323 cal"
+  },
+  {
+    "FoodItems": "Fajita",
+    "Quantity": "1 serving (248 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "Fish and Chips",
+    "Quantity": "1 serving (300 g)",
+    "Calories": "585 cal"
+  },
+  {
+    "FoodItems": "Fried Rice",
+    "Quantity": "1 serving (356 g)",
+    "Calories": "662 cal"
+  },
+  {
+    "FoodItems": "Fried Shrimp",
+    "Quantity": "1 shrimp (27 g)",
+    "Calories": "75 cal"
+  },
+  {
+    "FoodItems": "Grilled Cheese Sandwich",
+    "Quantity": "1 sandwich (136 g)",
+    "Calories": "392 cal"
+  },
+  {
+    "FoodItems": "Ham and Cheese Sandwich",
+    "Quantity": "1 sandwich (146 g)",
+    "Calories": "352 cal"
+  },
+  {
+    "FoodItems": "Hummus",
+    "Quantity": "1 cup (246 g)",
+    "Calories": "435 cal"
+  },
+  {
+    "FoodItems": "Jambalaya",
+    "Quantity": "1 cup (250 g)",
+    "Calories": "250 cal"
+  },
+  {
+    "FoodItems": "Kebab",
+    "Quantity": "1 kebab (360 g)",
+    "Calories": "774 cal"
+  },
+  {
+    "FoodItems": "Lasagne",
+    "Quantity": "1 serving (215 g)",
+    "Calories": "284 cal"
+  },
+  {
+    "FoodItems": "Mac and Cheese",
+    "Quantity": "1 serving (189 g)",
+    "Calories": "699 cal"
+  },
+  {
+    "FoodItems": "Macaroni and Cheese",
+    "Quantity": "1 serving (189 g)",
+    "Calories": "699 cal"
+  },
+  {
+    "FoodItems": "Mashed Potatoes",
+    "Quantity": "1 cup (210 g)",
+    "Calories": "174 cal"
+  },
+  {
+    "FoodItems": "Meat Pie",
+    "Quantity": "1 pie (120 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "Meatloaf",
+    "Quantity": "1 loaf (284 g)",
+    "Calories": "721 cal"
+  },
+  {
+    "FoodItems": "Naan",
+    "Quantity": "1 bread (84 g)",
+    "Calories": "260 cal"
+  },
+  {
+    "FoodItems": "Orange Chicken",
+    "Quantity": "1 serving (162 g)",
+    "Calories": "420 cal"
+  },
+  {
+    "FoodItems": "Pad Thai",
+    "Quantity": "1 cup (250 g)",
+    "Calories": "375 cal"
+  },
+  {
+    "FoodItems": "Paella",
+    "Quantity": "1/2 package (128 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Paratha",
+    "Quantity": "1 paratha (80 g)",
+    "Calories": "260 cal"
+  },
+  {
+    "FoodItems": "Pea Soup",
+    "Quantity": "1 cup (253 g)",
+    "Calories": "190 cal"
+  },
+  {
+    "FoodItems": "Peanut Butter Sandwich",
+    "Quantity": "1 sandwich (49 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Peking Duck",
+    "Quantity": "1/2 duck (178 g)",
+    "Calories": "401 cal"
+  },
+  {
+    "FoodItems": "Philly Cheese Steak",
+    "Quantity": "1 sandwich (120 g)",
+    "Calories": "300 cal"
+  },
+  {
+    "FoodItems": "Pizza",
+    "Quantity": "1 slice (102 g)",
+    "Calories": "272 cal"
+  },
+  {
+    "FoodItems": "Pork Chop",
+    "Quantity": "1 chop (131 g)",
+    "Calories": "295 cal"
+  },
+  {
+    "FoodItems": "Potato Salad",
+    "Quantity": "1/3 cup (95 g)",
+    "Calories": "136 cal"
+  },
+  {
+    "FoodItems": "Pulled Pork Sandwich",
+    "Quantity": "1 sandwich (261 g)",
+    "Calories": "551 cal"
+  },
+  {
+    "FoodItems": "Ramen",
+    "Quantity": "1 package, dry (85 g)",
+    "Calories": "380 cal"
+  },
+  {
+    "FoodItems": "Ravioli",
+    "Quantity": "5 ravioli (66 g)",
+    "Calories": "134 cal"
+  },
+  {
+    "FoodItems": "Reuben Sandwich",
+    "Quantity": "1 sandwich (308 g)",
+    "Calories": "641 cal"
+  },
+  {
+    "FoodItems": "Roast Beef",
+    "Quantity": "1 slice (21 g)",
+    "Calories": "23 cal"
+  },
+  {
+    "FoodItems": "Roast Dinner",
+    "Quantity": "1 slice (121 g)",
+    "Calories": "240 cal"
+  },
+  {
+    "FoodItems": "Samosa",
+    "Quantity": "1 samosa (50 g)",
+    "Calories": "107 cal"
+  },
+  {
+    "FoodItems": "Sausage Roll",
+    "Quantity": "1 roll (103 g)",
+    "Calories": "361 cal"
+  },
+  {
+    "FoodItems": "Sausage Rolls",
+    "Quantity": "1 roll (34 g)",
+    "Calories": "101 cal"
+  },
+  {
+    "FoodItems": "Shepherds Pie",
+    "Quantity": "1 pie (227 g)",
+    "Calories": "159 cal"
+  },
+  {
+    "FoodItems": "Shrimp Cocktail",
+    "Quantity": "1 oz. (28 g)",
+    "Calories": "130 cal"
+  },
+  {
+    "FoodItems": "Sloppy Joe",
+    "Quantity": "1/2 cup (142 g)",
+    "Calories": "101 cal"
+  },
+  {
+    "FoodItems": "Sloppy Joes",
+    "Quantity": "1 bun (258 g)",
+    "Calories": "397 cal"
+  },
+  {
+    "FoodItems": "Spaghetti Bolognese",
+    "Quantity": "1 serving (283 g)",
+    "Calories": "374 cal"
+  },
+  {
+    "FoodItems": "Spring Roll",
+    "Quantity": "1 roll (140 g)",
+    "Calories": "350 cal"
+  },
+  {
+    "FoodItems": "Spring Rolls",
+    "Quantity": "1 roll (140 g)",
+    "Calories": "350 cal"
+  },
+  {
+    "FoodItems": "Taco",
+    "Quantity": "1 taco (98 g)",
+    "Calories": "213 cal"
+  },
+  {
+    "FoodItems": "Tandoori Chicken",
+    "Quantity": "1 serving (175 g)",
+    "Calories": "198 cal"
+  },
+  {
+    "FoodItems": "Yorkshire Pudding",
+    "Quantity": "1 pudding (15 g)",
+    "Calories": "83 cal"
+  },
+  {
+    "FoodItems": "Amaranth",
+    "Quantity": "1 cup (193 g)",
+    "Calories": "716 cal"
+  },
+  {
+    "FoodItems": "Barley",
+    "Quantity": "1 cup (157 g)",
+    "Calories": "556 cal"
+  },
+  {
+    "FoodItems": "Barley Groats",
+    "Quantity": "1 cup (31 g)",
+    "Calories": "31 cal"
+  },
+  {
+    "FoodItems": "Brown Rice",
+    "Quantity": "1 cup (195 g)",
+    "Calories": "757 cal"
+  },
+  {
+    "FoodItems": "Buckwheat",
+    "Quantity": "1 cup (170 g)",
+    "Calories": "583 cal"
+  },
+  {
+    "FoodItems": "Buckwheat Groats",
+    "Quantity": "1 cup (164 g)",
+    "Calories": "567 cal"
+  },
+  {
+    "FoodItems": "Corn Waffles",
+    "Quantity": "1 waffle (40 g)",
+    "Calories": "110 cal"
+  },
+  {
+    "FoodItems": "Cornmeal",
+    "Quantity": "1 cup (122 g)",
+    "Calories": "442 cal"
+  },
+  {
+    "FoodItems": "Cornstarch",
+    "Quantity": "1 cup (128 g)",
+    "Calories": "488 cal"
+  },
+  {
+    "FoodItems": "Couscous",
+    "Quantity": "1 cup (173 g)",
+    "Calories": "650 cal"
+  },
+  {
+    "FoodItems": "Cracker",
+    "Quantity": "1 cracker (7 g)",
+    "Calories": "35 cal"
+  },
+  {
+    "FoodItems": "Durum Wheat Semolina",
+    "Quantity": "1 tbsp (30 g)",
+    "Calories": "119 cal"
+  },
+  {
+    "FoodItems": "Flaxseed",
+    "Quantity": "1 cup (168 g)",
+    "Calories": "897 cal"
+  },
+  {
+    "FoodItems": "Freekeh",
+    "Quantity": "1 cup (160 g)",
+    "Calories": "832 cal"
+  },
+  {
+    "FoodItems": "Gluten",
+    "Quantity": "1 oz. (28 g)",
+    "Calories": "104 cal"
+  },
+  {
+    "FoodItems": "Grissini",
+    "Quantity": "1 grissini (5 g)",
+    "Calories": "20 cal"
+  },
+  {
+    "FoodItems": "Kamut",
+    "Quantity": "1 cup (186 g)",
+    "Calories": "627 cal"
+  },
+  {
+    "FoodItems": "Millet",
+    "Quantity": "1 cup (128 g)",
+    "Calories": "484 cal"
+  },
+  {
+    "FoodItems": "Millet Flour",
+    "Quantity": "1 cup (140 g)",
+    "Calories": "521 cal"
+  },
+  {
+    "FoodItems": "Millet Gruel",
+    "Quantity": "1 cup (174 g)",
+    "Calories": "80 cal"
+  },
+  {
+    "FoodItems": "Oat Bran",
+    "Quantity": "1 cup (94 g)",
+    "Calories": "231 cal"
+  },
+  {
+    "FoodItems": "Pearl Barley",
+    "Quantity": "1 cup (157 g)",
+    "Calories": "553 cal"
+  },
+  {
+    "FoodItems": "Polenta",
+    "Quantity": "1 cup (150 g)",
+    "Calories": "549 cal"
+  },
+  {
+    "FoodItems": "Prawn Crackers",
+    "Quantity": "1 cracker (3 g)",
+    "Calories": "16 cal"
+  },
+  {
+    "FoodItems": "Pretzel Sticks",
+    "Quantity": "20 sticks (12 g)",
+    "Calories": "46 cal"
+  },
+  {
+    "FoodItems": "Quinoa",
+    "Quantity": "1 cup (170 g)",
+    "Calories": "626 cal"
+  },
+  {
+    "FoodItems": "Rusk",
+    "Quantity": "1 rusk (10 g)",
+    "Calories": "41 cal"
+  },
+  {
+    "FoodItems": "Rye Bran",
+    "Quantity": "1 cup (150 g)",
+    "Calories": "422 cal"
+  },
+  {
+    "FoodItems": "Sago",
+    "Quantity": "1 oz. (28 g)",
+    "Calories": "99 cal"
+  },
+  {
+    "FoodItems": "Savoury Biscuits",
+    "Quantity": "40 grams (40 g)",
+    "Calories": "139 cal"
+  },
+  {
+    "FoodItems": "Shortbread",
+    "Quantity": "1 cookie (19 g)",
+    "Calories": "95 cal"
+  },
+  {
+    "FoodItems": "Spelt",
+    "Quantity": "1 cup (174 g)",
+    "Calories": "588 cal"
+  },
+  {
+    "FoodItems": "Spelt Bran",
+    "Quantity": "1 cup (160 g)",
+    "Calories": "283 cal"
+  },
+  {
+    "FoodItems": "Spelt Semolina",
+    "Quantity": "1 cup (167 g)",
+    "Calories": "601 cal"
+  },
+  {
+    "FoodItems": "Sunflower Seeds",
+    "Quantity": "1 cup (140 g)",
+    "Calories": "818 cal"
+  },
+  {
+    "FoodItems": "Tortilla",
+    "Quantity": "1 tortilla (197 g)",
+    "Calories": "467 cal"
+  },
+  {
+    "FoodItems": "Tortilla Chips",
+    "Quantity": "20 chips (32 g)",
+    "Calories": "160 cal"
+  },
+  {
+    "FoodItems": "Wheat Bran",
+    "Quantity": "1 cup (58 g)",
+    "Calories": "125 cal"
+  },
+  {
+    "FoodItems": "Wheat Germ",
+    "Quantity": "1 cup (113 g)",
+    "Calories": "432 cal"
+  },
+  {
+    "FoodItems": "Wheat Gluten",
+    "Quantity": "1 tsp (3 g)",
+    "Calories": "10 cal"
+  },
+  {
+    "FoodItems": "Wheat Semolina",
+    "Quantity": "1 cup (167 g)",
+    "Calories": "601 cal"
+  },
+  {
+    "FoodItems": "Wheat Starch",
+    "Quantity": "1 cup (110 g)",
+    "Calories": "386 cal"
+  },
+  {
+    "FoodItems": "Whole Grain Wheat",
+    "Quantity": "1 cup (120 g)",
+    "Calories": "407 cal"
+  },
+  {
+    "FoodItems": "Wholegrain Oat",
+    "Quantity": "1 cup (80 g)",
+    "Calories": "300 cal"
+  },
+  {
+    "FoodItems": "Almond Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Apricot Kernel Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Argan Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "125 cal"
+  },
+  {
+    "FoodItems": "Avocado Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Babassu Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Canola Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Coconut Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Corn Oil",
+    "Quantity": "1 tbsp (15 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Cottonseed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Flaxseed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Grape Seed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Hazelnut Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Linseed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "117 cal"
+  },
+  {
+    "FoodItems": "Menhaden Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "128 cal"
+  },
+  {
+    "FoodItems": "Mustard Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Oat Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Olive Oil",
+    "Quantity": "1 tbsp (15 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Palm Kernel Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Palm Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Peanut Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Poppy Seed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Pumpkin Seed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Rice Bran Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Safflower Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Salmon Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "128 cal"
+  },
+  {
+    "FoodItems": "Sesame Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Shea Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Soy Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "123 cal"
+  },
+  {
+    "FoodItems": "Sunflower Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Tomato Seed Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Vegetable Oil",
+    "Quantity": "1 tbsp (15 ml)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Walnut Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "124 cal"
+  },
+  {
+    "FoodItems": "Wheat Germ Oil",
+    "Quantity": "1 tbsp (14 ml)",
+    "Calories": "130 cal"
+  },
+  {
+    "FoodItems": "Alphabet Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "62 cal"
+  },
+  {
+    "FoodItems": "Bean Stew",
+    "Quantity": "1 cup (252 g)",
+    "Calories": "335 cal"
+  },
+  {
+    "FoodItems": "Beef Bouillon",
+    "Quantity": "1 cup (240 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Beef Noodle Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "83 cal"
+  },
+  {
+    "FoodItems": "Beef Soup",
+    "Quantity": "1 cup (213 g)",
+    "Calories": "70 cal"
+  },
+  {
+    "FoodItems": "Bouillon",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "39 cal"
+  },
+  {
+    "FoodItems": "Broccoli Cheese Soup",
+    "Quantity": "1 can (303 g)",
+    "Calories": "264 cal"
+  },
+  {
+    "FoodItems": "Broccoli Soup",
+    "Quantity": "1 cup (237 g)",
+    "Calories": "206 cal"
+  },
+  {
+    "FoodItems": "Cabbage Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "69 cal"
+  },
+  {
+    "FoodItems": "Carrot Ginger Soup",
+    "Quantity": "1 serving (381 g)",
+    "Calories": "95 cal"
+  },
+  {
+    "FoodItems": "Carrot Soup",
+    "Quantity": "1 serving (381 g)",
+    "Calories": "95 cal"
+  },
+  {
+    "FoodItems": "Chicken Bouillon",
+    "Quantity": "1 cup (241 g)",
+    "Calories": "10 cal"
+  },
+  {
+    "FoodItems": "Chicken Broth",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "39 cal"
+  },
+  {
+    "FoodItems": "Chicken Gumbo Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "56 cal"
+  },
+  {
+    "FoodItems": "Chicken Noodle Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "62 cal"
+  },
+  {
+    "FoodItems": "Chicken Stock",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "39 cal"
+  },
+  {
+    "FoodItems": "Chicken Vegetable Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "77 cal"
+  },
+  {
+    "FoodItems": "Chicken with Rice Soup",
+    "Quantity": "1 cup (243 g)",
+    "Calories": "58 cal"
+  },
+  {
+    "FoodItems": "Cream of Asparagus Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "85 cal"
+  },
+  {
+    "FoodItems": "Cream of Broccoli Soup",
+    "Quantity": "1 serving (310 g)",
+    "Calories": "140 cal"
+  },
+  {
+    "FoodItems": "Cream of Celery Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "92 cal"
+  },
+  {
+    "FoodItems": "Cream of Chicken Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "117 cal"
+  },
+  {
+    "FoodItems": "Cream of Mushroom Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "97 cal"
+  },
+  {
+    "FoodItems": "Cream of Onion Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "107 cal"
+  },
+  {
+    "FoodItems": "Cream of Potato Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "73 cal"
+  },
+  {
+    "FoodItems": "Creamy Chicken Noodle Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "56 cal"
+  },
+  {
+    "FoodItems": "French Onion Soup",
+    "Quantity": "1 cup (243 g)",
+    "Calories": "56 cal"
+  },
+  {
+    "FoodItems": "Golden Mushroom Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "161 cal"
+  },
+  {
+    "FoodItems": "Goulash",
+    "Quantity": "1 serving (187 g)",
+    "Calories": "1887 cal"
+  },
+  {
+    "FoodItems": "Instant Ramen",
+    "Quantity": "1 package (85 g)",
+    "Calories": "371 cal"
+  },
+  {
+    "FoodItems": "Lentil Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "139 cal"
+  },
+  {
+    "FoodItems": "Lobster Bisque Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "248 cal"
+  },
+  {
+    "FoodItems": "Meatball Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Minestrone",
+    "Quantity": "1 cup (241 g)",
+    "Calories": "82 cal"
+  },
+  {
+    "FoodItems": "Mushroom Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "85 cal"
+  },
+  {
+    "FoodItems": "Noodle Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "83 cal"
+  },
+  {
+    "FoodItems": "Onion Soup",
+    "Quantity": "1 cup (243 g)",
+    "Calories": "56 cal"
+  },
+  {
+    "FoodItems": "Oxtail Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "68 cal"
+  },
+  {
+    "FoodItems": "Pea Soup",
+    "Quantity": "1 cup (253 g)",
+    "Calories": "190 cal"
+  },
+  {
+    "FoodItems": "Potato Soup",
+    "Quantity": "1 serving (240 g)",
+    "Calories": "192 cal"
+  },
+  {
+    "FoodItems": "Pumpkin Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "71 cal"
+  },
+  {
+    "FoodItems": "Ramen",
+    "Quantity": "1 package (85 g)",
+    "Calories": "371 cal"
+  },
+  {
+    "FoodItems": "Scotch Broth",
+    "Quantity": "1 cup (241 g)",
+    "Calories": "80 cal"
+  },
+  {
+    "FoodItems": "Succotash",
+    "Quantity": "1 cup (192 g)",
+    "Calories": "221 cal"
+  },
+  {
+    "FoodItems": "Thai Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "147 cal"
+  },
+  {
+    "FoodItems": "Tomato Rice Soup",
+    "Quantity": "1 cup (247 g)",
+    "Calories": "116 cal"
+  },
+  {
+    "FoodItems": "Tomato Soup",
+    "Quantity": "1 cup (248 g)",
+    "Calories": "74 cal"
+  },
+  {
+    "FoodItems": "Vegetable Beef Soup",
+    "Quantity": "1 cup (244 g)",
+    "Calories": "76 cal"
+  },
+  {
+    "FoodItems": "Vegetable Broth",
+    "Quantity": "1 cup (235 g)",
+    "Calories": "12 cal"
+  },
+  {
+    "FoodItems": "Vegetable Soup",
+    "Quantity": "1 cup (241 g)",
+    "Calories": "67 cal"
+  },
+  {
+    "FoodItems": "Vegetable Stock",
+    "Quantity": "1 cup (235 g)",
+    "Calories": "12 cal"
+  },
+  {
+    "FoodItems": "Wedding Soup",
+    "Quantity": "1 cup (245 g)",
+    "Calories": "130 cal"
+  },
+  {
+    "FoodItems": "Baskin-Robbins",
+    "Quantity": "1 scoop (71 g)",
+    "Calories": "170 cal"
+  },
+  {
+    "FoodItems": "Ben and Jerry’s",
+    "Quantity": "1 scoop (92 g)",
+    "Calories": "210 cal"
+  },
+  {
+    "FoodItems": "Butter Pecan Ice Cream",
+    "Quantity": "1 scoop (113 g)",
+    "Calories": "280 cal"
+  },
+  {
+    "FoodItems": "Carvel",
+    "Quantity": "1 cup (212 g)",
+    "Calories": "449 cal"
+  },
+  {
+    "FoodItems": "Chocolate Chip Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "155 cal"
+  },
+  {
+    "FoodItems": "Chocolate Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "156 cal"
+  },
+  {
+    "FoodItems": "Ciao Bella",
+    "Quantity": "1 cup (220 g)",
+    "Calories": "240 cal"
+  },
+  {
+    "FoodItems": "Coffee Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "170 cal"
+  },
+  {
+    "FoodItems": "Cold Stone Creamery",
+    "Quantity": "1 scoop (142 g)",
+    "Calories": "329 cal"
+  },
+  {
+    "FoodItems": "Cookie Dough Ice Cream",
+    "Quantity": "1/2 cup (65 g)",
+    "Calories": "130 cal"
+  },
+  {
+    "FoodItems": "Crunchie McFlurry",
+    "Quantity": "1 mcflurry (183 g)",
+    "Calories": "318 cal"
+  },
+  {
+    "FoodItems": "Dairy Milk McFlurry",
+    "Quantity": "1 mcflurry (183 g)",
+    "Calories": "340 cal"
+  },
+  {
+    "FoodItems": "Dippin Dots",
+    "Quantity": "1 cup (170 g)",
+    "Calories": "381 cal"
+  },
+  {
+    "FoodItems": "Double Rainbow",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "185 cal"
+  },
+  {
+    "FoodItems": "Drumsticks",
+    "Quantity": "1 cone (141 g)",
+    "Calories": "360 cal"
+  },
+  {
+    "FoodItems": "French Vanilla Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "145 cal"
+  },
+  {
+    "FoodItems": "Friendly’s",
+    "Quantity": "1 scoop (66 g)",
+    "Calories": "140 cal"
+  },
+  {
+    "FoodItems": "Healthy Choice",
+    "Quantity": "1 bar (64 g)",
+    "Calories": "80 cal"
+  },
+  {
+    "FoodItems": "Hot Fudge Sundae",
+    "Quantity": "1 sundae (179 g)",
+    "Calories": "333 cal"
+  },
+  {
+    "FoodItems": "Ice Cream Sandwich",
+    "Quantity": "1 bar (112 g)",
+    "Calories": "265 cal"
+  },
+  {
+    "FoodItems": "Ice Cream Sundae",
+    "Quantity": "1 sundae (178 g)",
+    "Calories": "253 cal"
+  },
+  {
+    "FoodItems": "Ice Milk",
+    "Quantity": "1 scoop (103 g)",
+    "Calories": "164 cal"
+  },
+  {
+    "FoodItems": "Magnolia",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "166 cal"
+  },
+  {
+    "FoodItems": "Magnum",
+    "Quantity": "1 magnum (86 g)",
+    "Calories": "258 cal"
+  },
+  {
+    "FoodItems": "Magnum Almond",
+    "Quantity": "1 magnum (86 g)",
+    "Calories": "271 cal"
+  },
+  {
+    "FoodItems": "Magnum Double Caramel",
+    "Quantity": "1 magnum (86 g)",
+    "Calories": "305 cal"
+  },
+  {
+    "FoodItems": "Magnum Double Chocolate",
+    "Quantity": "1 magnum (86 g)",
+    "Calories": "327 cal"
+  },
+  {
+    "FoodItems": "Magnum Gold",
+    "Quantity": "1 magnum (85 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "Magnum White",
+    "Quantity": "1 magnum (86 g)",
+    "Calories": "255 cal"
+  },
+  {
+    "FoodItems": "McFlurry",
+    "Quantity": "1 mcflurry (134 g)",
+    "Calories": "205 cal"
+  },
+  {
+    "FoodItems": "McFlurry Oreo",
+    "Quantity": "1 mcflurry (183 g)",
+    "Calories": "340 cal"
+  },
+  {
+    "FoodItems": "Mini Milk",
+    "Quantity": "1 mini milk (25 g)",
+    "Calories": "30 cal"
+  },
+  {
+    "FoodItems": "Mint Chocolate Chip Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "172 cal"
+  },
+  {
+    "FoodItems": "Rocky Road Ice Cream",
+    "Quantity": "1 scoop (113 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "Schwan’s",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "177 cal"
+  },
+  {
+    "FoodItems": "Smarties McFlurry",
+    "Quantity": "1 mcflurry (202 g)",
+    "Calories": "400 cal"
+  },
+  {
+    "FoodItems": "Snickers Ice Cream",
+    "Quantity": "1 bar (50 g)",
+    "Calories": "180 cal"
+  },
+  {
+    "FoodItems": "Soft Serve",
+    "Quantity": "1 cup (86 g)",
+    "Calories": "191 cal"
+  },
+  {
+    "FoodItems": "Solero",
+    "Quantity": "1 solero (75 g)",
+    "Calories": "75 cal"
+  },
+  {
+    "FoodItems": "Strawberry Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "170 cal"
+  },
+  {
+    "FoodItems": "Strawberry Sundae",
+    "Quantity": "1 sundae (178 g)",
+    "Calories": "281 cal"
+  },
+  {
+    "FoodItems": "Sundae",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "155 cal"
+  },
+  {
+    "FoodItems": "Turkey Hill",
+    "Quantity": "1 sandwich (70 g)",
+    "Calories": "190 cal"
+  },
+  {
+    "FoodItems": "Vanilla Cone",
+    "Quantity": "1 cone (142 g)",
+    "Calories": "230 cal"
+  },
+  {
+    "FoodItems": "Vanilla Ice Cream",
+    "Quantity": "1 scoop (72 g)",
+    "Calories": "145 cal"
+  },
+  {
+    "FoodItems": "Cannelloni",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "82 cal"
+  },
+  {
+    "FoodItems": "Capellini",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "198 cal"
+  },
+  {
+    "FoodItems": "Cappelletti",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "92 cal"
+  },
+  {
+    "FoodItems": "Cellophane Noodles",
+    "Quantity": "1 cup (140 g)",
+    "Calories": "491 cal"
+  },
+  {
+    "FoodItems": "Cheese Tortellini",
+    "Quantity": "1 cup (113 g)",
+    "Calories": "329 cal"
+  },
+  {
+    "FoodItems": "Dampfnudel",
+    "Quantity": "1 dampfnudel (85 g)",
+    "Calories": "233 cal"
+  },
+  {
+    "FoodItems": "Dumpling Dough",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "55 cal"
+  },
+  {
+    "FoodItems": "Durum Wheat Semolina",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "222 cal"
+  },
+  {
+    "FoodItems": "Egg Noodles",
+    "Quantity": "1 cup (38 g)",
+    "Calories": "146 cal"
+  },
+  {
+    "FoodItems": "Farfalle",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Fettuccine",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "198 cal"
+  },
+  {
+    "FoodItems": "Fusilli",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "197 cal"
+  },
+  {
+    "FoodItems": "Glass Noodles",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "108 cal"
+  },
+  {
+    "FoodItems": "Lasagne Sheets",
+    "Quantity": "1 sheet (21 g)",
+    "Calories": "57 cal"
+  },
+  {
+    "FoodItems": "Linguine",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Low Carb Pasta",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "158 cal"
+  },
+  {
+    "FoodItems": "Macaroni",
+    "Quantity": "1 cup (114 g)",
+    "Calories": "422 cal"
+  },
+  {
+    "FoodItems": "Manicotti",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Mostaccioli",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "103 cal"
+  },
+  {
+    "FoodItems": "Orecchiette",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "207 cal"
+  },
+  {
+    "FoodItems": "Orzo",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Penne",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "197 cal"
+  },
+  {
+    "FoodItems": "Penne Rigate",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "207 cal"
+  },
+  {
+    "FoodItems": "Pierogi",
+    "Quantity": "3 pierogi (100 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Ravioli",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "43 cal"
+  },
+  {
+    "FoodItems": "Rigatoni",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "198 cal"
+  },
+  {
+    "FoodItems": "Rotini",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "198 cal"
+  },
+  {
+    "FoodItems": "Shells",
+    "Quantity": "1 cup (85 g)",
+    "Calories": "300 cal"
+  },
+  {
+    "FoodItems": "Shirataki Noodles",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "10 cal"
+  },
+  {
+    "FoodItems": "Soy Noodles",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "121 cal"
+  },
+  {
+    "FoodItems": "Spaetzle",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "206 cal"
+  },
+  {
+    "FoodItems": "Spaghetti",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "207 cal"
+  },
+  {
+    "FoodItems": "Spinach Tortellini",
+    "Quantity": "1 cup (102 g)",
+    "Calories": "320 cal"
+  },
+  {
+    "FoodItems": "Spirelli",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "206 cal"
+  },
+  {
+    "FoodItems": "Tagliatelle",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "207 cal"
+  },
+  {
+    "FoodItems": "Tortellini",
+    "Quantity": "1 cup (113 g)",
+    "Calories": "329 cal"
+  },
+  {
+    "FoodItems": "Vermicelli",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "206 cal"
+  },
+  {
+    "FoodItems": "Whole Grain Noodles",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "194 cal"
+  },
+  {
+    "FoodItems": "Whole Grain Spaghetti",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "197 cal"
+  },
+  {
+    "FoodItems": "Ziti",
+    "Quantity": "2 oz. (56 g)",
+    "Calories": "197 cal"
+  },
+  {
+    "FoodItems": "BBQ Chicken Pizza",
+    "Quantity": "1 slice (132 g)",
+    "Calories": "309 cal"
+  },
+  {
+    "FoodItems": "BBQ Pizza",
+    "Quantity": "1 slice (140 g)",
+    "Calories": "314 cal"
+  },
+  {
+    "FoodItems": "Beef Pizza",
+    "Quantity": "1 slice (235 g)",
+    "Calories": "714 cal"
+  },
+  {
+    "FoodItems": "Bianca Pizza",
+    "Quantity": "1 slice (187 g)",
+    "Calories": "460 cal"
+  },
+  {
+    "FoodItems": "Buffalo Chicken Pizza",
+    "Quantity": "1 slice (238 g)",
+    "Calories": "600 cal"
+  },
+  {
+    "FoodItems": "Calabrese Pizza",
+    "Quantity": "1 slice (108 g)",
+    "Calories": "254 cal"
+  },
+  {
+    "FoodItems": "Calzone",
+    "Quantity": "1 calzone (364 g)",
+    "Calories": "841 cal"
+  },
+  {
+    "FoodItems": "Capricciosa Pizza",
+    "Quantity": "1 slice (74 g)",
+    "Calories": "192 cal"
+  },
+  {
+    "FoodItems": "Cheese Pizza",
+    "Quantity": "1 slice (63 g)",
+    "Calories": "168 cal"
+  },
+  {
+    "FoodItems": "Chicken Pizza",
+    "Quantity": "1 slice (132 g)",
+    "Calories": "309 cal"
+  },
+  {
+    "FoodItems": "Deep Dish Pizza",
+    "Quantity": "1 slice (118 g)",
+    "Calories": "313 cal"
+  },
+  {
+    "FoodItems": "Dominos Philly Cheese Steak Pizza",
+    "Quantity": "1 slice (159 g)",
+    "Calories": "356 cal"
+  },
+  {
+    "FoodItems": "Four Cheese Pizza",
+    "Quantity": "1 slice (113 g)",
+    "Calories": "250 cal"
+  },
+  {
+    "FoodItems": "Goat Cheese Pizza",
+    "Quantity": "1 slice (63 g)",
+    "Calories": "138 cal"
+  },
+  {
+    "FoodItems": "Grilled Pizza",
+    "Quantity": "1 slice (124 g)",
+    "Calories": "280 cal"
+  },
+  {
+    "FoodItems": "Hawaiian Pizza",
+    "Quantity": "1 slice (134 g)",
+    "Calories": "154 cal"
+  },
+  {
+    "FoodItems": "Margherita Pizza",
+    "Quantity": "1 slice (63 g)",
+    "Calories": "173 cal"
+  },
+  {
+    "FoodItems": "Mozzarella Pizza",
+    "Quantity": "1 slice (62 g)",
+    "Calories": "154 cal"
+  },
+  {
+    "FoodItems": "Mushroom Pizza",
+    "Quantity": "1 slice (288 g)",
+    "Calories": "611 cal"
+  },
+  {
+    "FoodItems": "Napoli Pizza",
+    "Quantity": "1 slice (123 g)",
+    "Calories": "248 cal"
+  },
+  {
+    "FoodItems": "New York Style Pizza",
+    "Quantity": "1 slice (103 g)",
+    "Calories": "174 cal"
+  },
+  {
+    "FoodItems": "Pepperoni Pizza",
+    "Quantity": "1 slice (71 g)",
+    "Calories": "181 cal"
+  },
+  {
+    "FoodItems": "Pizza Dough",
+    "Quantity": "2 oz. (57 g)",
+    "Calories": "130 cal"
+  },
+  {
+    "FoodItems": "Pizza Hut Stuffed Crust Pizza",
+    "Quantity": "1 slice (149 g)",
+    "Calories": "380 cal"
+  },
+  {
+    "FoodItems": "Pizza Hut Supreme Pizza",
+    "Quantity": "1 slice (123 g)",
+    "Calories": "305 cal"
+  },
+  {
+    "FoodItems": "Pizza Rolls",
+    "Quantity": "1 roll (14 g)",
+    "Calories": "35 cal"
+  },
+  {
+    "FoodItems": "Quattro Formaggi Pizza",
+    "Quantity": "1 slice (133 g)",
+    "Calories": "330 cal"
+  },
+  {
+    "FoodItems": "Red Pepper Pizza",
+    "Quantity": "1 slice (86 g)",
+    "Calories": "165 cal"
+  },
+  {
+    "FoodItems": "Salami Pizza",
+    "Quantity": "1 slice (71 g)",
+    "Calories": "181 cal"
+  },
+  {
+    "FoodItems": "Sausage Pizza",
+    "Quantity": "1 slice (72 g)",
+    "Calories": "177 cal"
+  },
+  {
+    "FoodItems": "Seafood Pizza",
+    "Quantity": "1 slice (76 g)",
+    "Calories": "186 cal"
+  },
+  {
+    "FoodItems": "Shrimp Pizza",
+    "Quantity": "1 slice (91 g)",
+    "Calories": "190 cal"
+  },
+  {
+    "FoodItems": "Sicilian Pizza",
+    "Quantity": "1 slice (133 g)",
+    "Calories": "321 cal"
+  },
+  {
+    "FoodItems": "Spinach Feta Pizza",
+    "Quantity": "1 slice (62 g)",
+    "Calories": "150 cal"
+  },
+  {
+    "FoodItems": "Spinach Pizza",
+    "Quantity": "1 slice (62 g)",
+    "Calories": "145 cal"
+  },
+  {
+    "FoodItems": "Stuffed Crust Pizza",
+    "Quantity": "1 slice (149 g)",
+    "Calories": "380 cal"
+  },
+  {
+    "FoodItems": "Tarte Flambée",
+    "Quantity": "1 square (56 g)",
+    "Calories": "142 cal"
+  },
+  {
+    "FoodItems": "Thin Crust Pizza",
+    "Quantity": "1 slice (60 g)",
+    "Calories": "157 cal"
+  },
+  {
+    "FoodItems": "Tuna Pizza",
+    "Quantity": "1 slice (125 g)",
+    "Calories": "318 cal"
+  },
+  {
+    "FoodItems": "Vegetable Pizza",
+    "Quantity": "1 slice (156 g)",
+    "Calories": "399 cal"
+  },
+  {
+    "FoodItems": "Vegetarian Pizza",
+    "Quantity": "1 slice (156 g)",
+    "Calories": "399 cal"
+  },
+  {
+    "FoodItems": "Veggie Pizza",
+    "Quantity": "1 slice (114 g)",
+    "Calories": "263 cal"
+  },
+  {
+    "FoodItems": "White Pizza",
+    "Quantity": "1 slice (232 g)",
+    "Calories": "571 cal"
+  },
+  {
+    "FoodItems": "Acerola",
+    "Quantity": "1 acerola (4.8 g)",
+    "Calories": "1 cal"
+  },
+  {
+    "FoodItems": "Asian Pear",
+    "Quantity": "1 pear (178 g)",
+    "Calories": "75 cal"
+  },
+  {
+    "FoodItems": "Avocado",
+    "Quantity": "1 avocado (200 g)",
+    "Calories": "320 cal"
+  },
+  {
+    "FoodItems": "Banana",
+    "Quantity": "1 banana (125 g)",
+    "Calories": "111 cal"
+  },
+  {
+    "FoodItems": "Breadfruit",
+    "Quantity": "1/4 breadfruit (96 g)",
+    "Calories": "99 cal"
+  },
+  {
+    "FoodItems": "Cantaloupe Melon",
+    "Quantity": "1 wedge (69 g)",
+    "Calories": "23 cal"
+  },
+  {
+    "FoodItems": "Casaba Melon",
+    "Quantity": "1 wedge (125 g)",
+    "Calories": "35 cal"
+  },
+  {
+    "FoodItems": "Cherimoya",
+    "Quantity": "1 cherimoya (235 g)",
+    "Calories": "176 cal"
+  },
+  {
+    "FoodItems": "Dragon Fruit",
+    "Quantity": "1 dragonfruit (200 g)",
+    "Calories": "120 cal"
+  },
+  {
+    "FoodItems": "Durian",
+    "Quantity": "1 durian (602 g)",
+    "Calories": "885 cal"
+  },
+  {
+    "FoodItems": "Feijoa",
+    "Quantity": "1 feijoa (42 g)",
+    "Calories": "23 cal"
+  },
+  {
+    "FoodItems": "Galia Melon",
+    "Quantity": "1 melon (130 g)",
+    "Calories": "30 cal"
+  },
+  {
+    "FoodItems": "Grapefruit",
+    "Quantity": "1/2 grapefruit (123 g)",
+    "Calories": "52 cal"
+  },
+  {
+    "FoodItems": "Guava",
+    "Quantity": "1 guava (55 g)",
+    "Calories": "37 cal"
+  },
+  {
+    "FoodItems": "Honeydew",
+    "Quantity": "1 wedge (125 g)",
+    "Calories": "45 cal"
+  },
+  {
+    "FoodItems": "Jackfruit",
+    "Quantity": "1 cup (151 g)",
+    "Calories": "143 cal"
+  },
+  {
+    "FoodItems": "Kiwi",
+    "Quantity": "1 kiwi (183 g)",
+    "Calories": "112 cal"
+  },
+  {
+    "FoodItems": "Kumquat",
+    "Quantity": "1 kumquat (19 g)",
+    "Calories": "13 cal"
+  },
+  {
+    "FoodItems": "Lychee",
+    "Quantity": "1 lychee (10 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Mandarin Oranges",
+    "Quantity": "1 madarin orange (90 g)",
+    "Calories": "48 cal"
+  },
+  {
+    "FoodItems": "Mango",
+    "Quantity": "1 mango (336 g)",
+    "Calories": "202 cal"
+  },
+  {
+    "FoodItems": "Mangosteen",
+    "Quantity": "1 serving (80 g)",
+    "Calories": "58 cal"
+  },
+  {
+    "FoodItems": "Maracuya",
+    "Quantity": "1 maracuya (18 g)",
+    "Calories": "17 cal"
+  },
+  {
+    "FoodItems": "Maraschino Cherries",
+    "Quantity": "1 cherry (5 g)",
+    "Calories": "8 cal"
+  },
+  {
+    "FoodItems": "Muskmelon",
+    "Quantity": "1 wedge (69 g)",
+    "Calories": "23 cal"
+  },
+  {
+    "FoodItems": "Noni",
+    "Quantity": "1 oz. (28.4 g)",
+    "Calories": "15 cal"
+  },
+  {
+    "FoodItems": "Passion Fruit",
+    "Quantity": "1 passion fruit (18 g)",
+    "Calories": "17 cal"
+  },
+  {
+    "FoodItems": "Pineapple",
+    "Quantity": "1 pineapple (905 g)",
+    "Calories": "453 cal"
+  },
+  {
+    "FoodItems": "Pink Grapefruit",
+    "Quantity": "1/2 grapefruit (123 g)",
+    "Calories": "52 cal"
+  },
+  {
+    "FoodItems": "Plantain",
+    "Quantity": "1 plantain (179 g)",
+    "Calories": "218 cal"
+  },
+  {
+    "FoodItems": "Pomegranate",
+    "Quantity": "1 pomegranate (282 g)",
+    "Calories": "234 cal"
+  },
+  {
+    "FoodItems": "Pomelo",
+    "Quantity": "1 pomelo (609 g)",
+    "Calories": "231 cal"
+  },
+  {
+    "FoodItems": "Prickly Pear",
+    "Quantity": "1 pad, peeled (19 g)",
+    "Calories": "8 cal"
+  },
+  {
+    "FoodItems": "Rambutan",
+    "Quantity": "1 rambutan (9 g)",
+    "Calories": "7 cal"
+  },
+  {
+    "FoodItems": "Sapodilla",
+    "Quantity": "1 sapodilla (170 g)",
+    "Calories": "141 cal"
+  },
+  {
+    "FoodItems": "Soursop Fruit",
+    "Quantity": "1 soursop fruit (625 g)",
+    "Calories": "413 cal"
+  },
+  {
+    "FoodItems": "Star Fruit",
+    "Quantity": "1 starfruit (91 g)",
+    "Calories": "28 cal"
+  },
+  {
+    "FoodItems": "Tamarind",
+    "Quantity": "1 tamarind (2 g)",
+    "Calories": "5 cal"
+  },
+  {
+    "FoodItems": "Watermelon",
+    "Quantity": "1 wedge (286 g)",
+    "Calories": "86 cal"
+  },
+  {
+    "FoodItems": "Arby’s Grand Turkey Club",
+    "Quantity": "1 sandwich (233 g)",
+    "Calories": "489 cal"
+  },
+  {
+    "FoodItems": "Arby’s Reuben",
+    "Quantity": "1 sandwich (308 g)",
+    "Calories": "641 cal"
+  },
+  {
+    "FoodItems": "Arby’s Roast Beef Classic",
+    "Quantity": "1 burger (154 g)",
+    "Calories": "360 cal"
+  },
+  {
+    "FoodItems": "Arby’s Roast Beef Max",
+    "Quantity": "1 burger (154 g)",
+    "Calories": "360 cal"
+  },
+  {
+    "FoodItems": "BBQ Rib",
+    "Quantity": "1 rib (67 g)",
+    "Calories": "142 cal"
+  },
+  {
+    "FoodItems": "Bean Burrito",
+    "Quantity": "1 burrito (190 g)",
+    "Calories": "380 cal"
+  },
+  {
+    "FoodItems": "Big N’ Tasty",
+    "Quantity": "1 sandwich (232 g)",
+    "Calories": "517 cal"
+  },
+  {
+    "FoodItems": "Bratwurst",
+    "Quantity": "1 piece (85 g)",
+    "Calories": "283 cal"
+  },
+  {
+    "FoodItems": "Burger King Angry Whopper",
+    "Quantity": "1 burger (290 g)",
+    "Calories": "740 cal"
+  },
+  {
+    "FoodItems": "Burger King Double Whopper",
+    "Quantity": "1 burger (374 g)",
+    "Calories": "894 cal"
+  },
+  {
+    "FoodItems": "Burger King Double Whopper with Cheese",
+    "Quantity": "1 sandwich (399 g)",
+    "Calories": "994 cal"
+  },
+  {
+    "FoodItems": "Burger King Original Chicken Sandwich",
+    "Quantity": "1 sandwich (219 g)",
+    "Calories": "659 cal"
+  },
+  {
+    "FoodItems": "Burger King Premium Alaskan Fish Sandwich",
+    "Quantity": "1 burger (228 g)",
+    "Calories": "591 cal"
+  },
+  {
+    "FoodItems": "Burger King Triple Whopper",
+    "Quantity": "1 burger (547 g)",
+    "Calories": "1471 cal"
+  },
+  {
+    "FoodItems": "Burger King Whopper",
+    "Quantity": "1 burger (291 g)",
+    "Calories": "672 cal"
+  },
+  {
+    "FoodItems": "Burger King Whopper Jr.",
+    "Quantity": "1 burger (148 g)",
+    "Calories": "346 cal"
+  },
+  {
+    "FoodItems": "Burger King Whopper with Cheese",
+    "Quantity": "1 burger (315 g)",
+    "Calories": "759 cal"
+  },
+  {
+    "FoodItems": "Cheeseburger",
+    "Quantity": "1 burger (156 g)",
+    "Calories": "410 cal"
+  },
+  {
+    "FoodItems": "Chicken Breast",
+    "Quantity": "1 piece (71 g)",
+    "Calories": "116 cal"
+  },
+  {
+    "FoodItems": "Chicken Fajita",
+    "Quantity": "1 sandwich (222 g)",
+    "Calories": "326 cal"
+  },
+  {
+    "FoodItems": "Chicken McNuggets",
+    "Quantity": "1 nugget (16 g)",
+    "Calories": "48 cal"
+  },
+  {
+    "FoodItems": "Chicken Nuggets",
+    "Quantity": "1 piece (20 g)",
+    "Calories": "59 cal"
+  },
+  {
+    "FoodItems": "Chicken Pizziola",
+    "Quantity": "1 sandwich (320 g)",
+    "Calories": "451 cal"
+  },
+  {
+    "FoodItems": "Chicken Sandwich",
+    "Quantity": "1 sandwich (170 g)",
+    "Calories": "410 cal"
+  },
+  {
+    "FoodItems": "Chicken Teriyaki Sandwich",
+    "Quantity": "1 sandwich (266 g)",
+    "Calories": "367 cal"
+  },
+  {
+    "FoodItems": "Chicken Wings",
+    "Quantity": "1 piece (29 g)",
+    "Calories": "94 cal"
+  },
+  {
+    "FoodItems": "Chop Suey",
+    "Quantity": "1 serving (340 g)",
+    "Calories": "585 cal"
+  },
+  {
+    "FoodItems": "Curly Fries",
+    "Quantity": "1 serving (128 g)",
+    "Calories": "398 cal"
+  },
+  {
+    "FoodItems": "Double Cheeseburger",
+    "Quantity": "1 burger (155 g)",
+    "Calories": "414 cal"
+  },
+  {
+    "FoodItems": "Egg Roll",
+    "Quantity": "1 roll (80 g)",
+    "Calories": "200 cal"
+  },
+  {
+    "FoodItems": "Falafel",
+    "Quantity": "1 patty (17 g)",
+    "Calories": "57 cal"
+  },
+  {
+    "FoodItems": "Filet-o-Fish",
+    "Quantity": "1 sandwich (142 g)",
+    "Calories": "400 cal"
+  },
+  {
+    "FoodItems": "Fish and Chips",
+    "Quantity": "1 serving (300 g)",
+    "Calories": "585 cal"
+  },
+  {
+    "FoodItems": "Fish Sandwich",
+    "Quantity": "1 sandwich (158 g)",
+    "Calories": "431 cal"
+  },
+  {
+    "FoodItems": "French Fries",
+    "Quantity": "1 serving (71 g)",
+    "Calories": "222 cal"
+  },
+  {
+    "FoodItems": "Grilled Chicken Salad",
+    "Quantity": "1 salad (305 g)",
+    "Calories": "268 cal"
+  },
+  {
+    "FoodItems": "Ham Sandwich",
+    "Quantity": "1 sandwich (146 g)",
+    "Calories": "352 cal"
+  },
+  {
+    "FoodItems": "Hamburger",
+    "Quantity": "1 sandwich (110 g)",
+    "Calories": "279 cal"
+  },
+  {
+    "FoodItems": "Hot Dog",
+    "Quantity": "1 hot dog (116 g)",
+    "Calories": "312 cal"
+  },
+  {
+    "FoodItems": "Italian BMT",
+    "Quantity": "1 sandwich (224 g)",
+    "Calories": "410 cal"
+  },
+  {
+    "FoodItems": "Lasagna",
+    "Quantity": "1 piece (130 g)",
+    "Calories": "172 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Big Mac",
+    "Quantity": "1 burger (219 g)",
+    "Calories": "561 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Cheeseburger",
+    "Quantity": "1 sandwich (114 g)",
+    "Calories": "300 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Chicken Nuggets",
+    "Quantity": "1 nugget (16 g)",
+    "Calories": "48 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Double Cheeseburger",
+    "Quantity": "1 burger (155 g)",
+    "Calories": "437 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Filet-o-Fish",
+    "Quantity": "1 sandwich (142 g)",
+    "Calories": "391 cal"
+  },
+  {
+    "FoodItems": "McDonald’s McChicken",
+    "Quantity": "1 burger (143 g)",
+    "Calories": "359 cal"
+  },
+  {
+    "FoodItems": "McDonald’s McDouble",
+    "Quantity": "1 burger (160 g)",
+    "Calories": "403 cal"
+  },
+  {
+    "FoodItems": "McDonald’s McMuffi Egg",
+    "Quantity": "1 burger (129 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "McDonald’s McRib",
+    "Quantity": "1 sandwich (170 g)",
+    "Calories": "451 cal"
+  },
+  {
+    "FoodItems": "McDonald’s Mighty Wings",
+    "Quantity": "1 wing (31 g)",
+    "Calories": "95 cal"
+  },
+  {
+    "FoodItems": "McRib",
+    "Quantity": "1 sandwich (170 g)",
+    "Calories": "451 cal"
+  },
+  {
+    "FoodItems": "Meatball Sandwich",
+    "Quantity": "1 sandwich (299 g)",
+    "Calories": "481 cal"
+  },
+  {
+    "FoodItems": "Nachos with Cheese",
+    "Quantity": "10 nachos (188 g)",
+    "Calories": "575 cal"
+  },
+  {
+    "FoodItems": "Onion Rings",
+    "Quantity": "1 ring (6.5 g)",
+    "Calories": "25 cal"
+  },
+  {
+    "FoodItems": "Poutine",
+    "Quantity": "1 serving (225 g)",
+    "Calories": "511 cal"
+  },
+  {
+    "FoodItems": "Smoked Salmon",
+    "Quantity": "1 oz. (28.35 g)",
+    "Calories": "44 cal"
+  },
+  {
+    "FoodItems": "Spicy Italian",
+    "Quantity": "1 sandwich (219 g)",
+    "Calories": "480 cal"
+  },
+  {
+    "FoodItems": "Subway Club Sandwich",
+    "Quantity": "1 sandwich (238 g)",
+    "Calories": "312 cal"
+  },
+  {
+    "FoodItems": "Tortilla Wrap",
+    "Quantity": "1 wrap (63 g)",
+    "Calories": "171 cal"
+  },
+  {
+    "FoodItems": "Tuna",
+    "Quantity": "1 oz. (28.35 g)",
+    "Calories": "24 cal"
+  },
+  {
+    "FoodItems": "Turkey",
+    "Quantity": "1 oz. (28.35 g)",
+    "Calories": "29 cal"
+  },
+  {
+    "FoodItems": "Veggie Burger",
+    "Quantity": "1 burger (215 g)",
+    "Calories": "389 cal"
+  },
+  {
+    "FoodItems": "Veggie Delight",
+    "Quantity": "1 sandwich (166 g)",
+    "Calories": "229 cal"
+  },
+  {
+    "FoodItems": "Veggie Patty",
+    "Quantity": "1 sandwich (247 g)",
+    "Calories": "963 cal"
+  },
+  {
+    "FoodItems": "Wendy’s Baconator",
+    "Quantity": "1 burger (276 g)",
+    "Calories": "839 cal"
+  },
+  {
+    "FoodItems": "Wendy’s Jr. Bacon Cheeseburger",
+    "Quantity": "1 burger (161 g)",
+    "Calories": "420 cal"
+  },
+  {
+    "FoodItems": "Wendy’s Jr. Cheeseburger",
+    "Quantity": "1 burger (129 g)",
+    "Calories": "290 cal"
+  },
+  {
+    "FoodItems": "Wendy’s Son of Baconator",
+    "Quantity": "1 burger (218 g)",
+    "Calories": "700 cal"
+  },
+  {
+    "FoodItems": "Whopper",
+    "Quantity": "1 burger (291 g)",
+    "Calories": "672 cal"
+  },
+  {
+    "FoodItems": "Zinger",
+    "Quantity": "1 sandwich (202 g)",
+    "Calories": "517 cal"
+  },
+  {
+    "FoodItems": "Zinger Burger",
+    "Quantity": "1 sandwich (202 g)",
+    "Calories": "517 cal"
+  }
+]
