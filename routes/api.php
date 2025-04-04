@@ -21,6 +21,10 @@ Route::post('user', [UserController::class, 'store']);
 
 // Protected routes (Require authentication)
 Route::middleware('auth:sanctum')->group(function () {
+    // Route::apiResource('daily-data', DailyDataController::class);
+    Route::post('daily-data', [DailyDataController::class, 'store']);
+    Route::get('daily-data', [DailyDataController::class, 'show']);
+
     Route::apiResource('user', UserController::class)->except(['store']);
     Route::get('user-goal', [UserGoalController::class, 'index']);
     Route::post('user-goal', [UserGoalController::class, 'store']);
@@ -44,8 +48,13 @@ Route::middleware('guest')->group(function () {
     Route::post('/reset-password', [PasswordResetController::class, 'resetPassword']);
 });
 
-Route::apiResource('daily-data', DailyDataController::class);
+// Route::apiResource('daily-data', DailyDataController::class);
 
+// Route::middleware('auth:sanctum')->get('/daily-data', [DailyDataController::class, 'index']);
+// Route::middleware('auth:sanctum')->post('/daily-data', [DailyDataController::class, 'store']);
+// Route::middleware('auth:sanctum')->get('/daily-data/show', [DailyDataController::class, 'show']);
+// Route::middleware('auth:sanctum')->put('/daily-data/{id}', [DailyDataController::class, 'update']);
+// Route::middleware('auth:sanctum')->delete('/daily-data/{id}', [DailyDataController::class, 'destroy']);
 
 
 /**

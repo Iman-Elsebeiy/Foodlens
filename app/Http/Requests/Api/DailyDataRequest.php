@@ -11,7 +11,7 @@ class DailyDataRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return false;
+        return true;
     }
 
     /**
@@ -22,7 +22,6 @@ class DailyDataRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'user_id' => ['required', 'exists:users,id'],
             'calories_consumed' => ['nullable', 'integer'],
             'water' => ['nullable', 'numeric'],
             'sleep' => ['nullable', 'numeric'],

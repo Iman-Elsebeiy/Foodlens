@@ -8,7 +8,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
-class User extends Authenticatable 
+class User extends Authenticatable
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
     use HasFactory, Notifiable,HasApiTokens;
@@ -30,7 +30,7 @@ class User extends Authenticatable
         'target_weight',
         "goal"
     ];
-    
+
     /**
      * The attributes that should be hidden for serialization.
      *
@@ -53,4 +53,14 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+
+
+// In User.php model
+
+public function userGoal()
+{
+    return $this->hasOne(UserGoal::class); // Adjust the relationship according to your actual model
+}
+
 }
