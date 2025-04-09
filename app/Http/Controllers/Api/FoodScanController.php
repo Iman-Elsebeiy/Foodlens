@@ -98,10 +98,25 @@ class FoodScanController extends Controller
             $weight = floatval(preg_replace('/[^0-9.]/', '', $food->weight_with_unit));
 
             $calCalorie = round(($food->calories_per_100g * ($weight * $request->input('total_food_items'))) / 100, 2);
-            $dailyData = new DailyData();
-            $dailyData->user_id = Auth::user()->id;
-            $dailyData->calories_consumed = $calCalorie;
-            $dailyData->save();
+
+            $dailyData = DailyData::where('user_id', Auth::user()->id)
+            ->whereDate('created_at', today())
+            ->first();
+
+            if ($dailyData) {
+
+                $dailyData->calories_consumed += $calCalorie;
+                $dailyData->save();
+            } else {
+
+                $dailyData = new DailyData();
+                $dailyData->user_id = Auth::id();
+                $dailyData->calories_consumed = $calCalorie;
+                $dailyData->created_at = now();
+                $dailyData->save();
+            }
+
+
             ScanHistory::create(
                 [
                     "total_food_items" => $request->input('total_food_items'),
